@@ -24,3 +24,20 @@ MySQL / any relational database
 
 ## Author
 Kamaal Khan
+
+## Sample Query Results
+
+**Total Revenue by Category**
+![Revenue by Category](1_revenue_by_category.png)
+
+**City-wise Total Sales**
+![City-wise Sales](2_city_wise_sales.png)
+
+**Top Selling Products**
+![Top Products](3_top_product.png)
+
+**Highest Spending Customer**
+![Top Customer](4_top_customer.png)
+
+**Orders After a Specific Date**
+![Orders After Date](5_orders_after_date.png)
